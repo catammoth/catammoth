@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a self-taught frontend developer currently mastering **HTML5**, **CSS3**, and **JavaScript** — building responsive, accessible websites that are both clean and user-friendly.
 
@@ -17,9 +17,9 @@ I bring strong attention to detail, discipline, and teamwork into my coding jour
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
-- 🏗Learning DOM Manipulation & JavaScript Algorithms
+- Learning DOM Manipulation & JavaScript Algorithms
 - Creating fully responsive layouts using Flexbox & CSS Grid
 - Preparing for:
   - `Responsive Web Design Certification` (Aug 2025)
@@ -50,7 +50,7 @@ Here are some simple but meaningful projects that showcase my learning progress:
 
 ---
 
-## 🧩 Certifications
+## Certifications
 
 - `Responsive Web Design` – *freeCodeCamp* (Expected Aug 2025)
 - `JavaScript Algorithms` – *freeCodeCamp* (Expected Oct 2025)
