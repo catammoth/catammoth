@@ -45,6 +45,8 @@ Here are some simple but meaningful projects that showcase my learning progress:
 - **Contact Us Form** — HTML + CSS with Flexbox and gradients
 - **Nutrition Facts Card** — Typography-focused layout
 - **Simple Calculator** — JavaScript functions, if/switch statements
+- **Cafe Landing Page** — A landing page with responsive design using media queries.
+- **Personal Portfolio** — My personal front-end portfolio, featuring profile, projects, and contact form.
 
 > I update my portfolio regularly as I learn more — keep an eye out for new builds!
 
@@ -52,6 +54,7 @@ Here are some simple but meaningful projects that showcase my learning progress:
 
 ## Certifications
 
+- `Intro to Software Engineering` – *RevoU* (Jul 2025)
 - `Responsive Web Design` – *freeCodeCamp* (Expected Aug 2025)
 - `JavaScript Algorithms` – *freeCodeCamp* (Expected Oct 2025)
 
